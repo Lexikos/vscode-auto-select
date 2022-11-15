@@ -11,7 +11,7 @@ Automatically switches the document language in the following cases:
 
 This has been tested with the following extensions:
   - [AutoHotkey v2 Language Support](https://marketplace.visualstudio.com/items?itemName=thqby.vscode-autohotkey2-lsp) by thqby
-  - [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) by Mark Weimer
+  - [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) by Mark Wiemer
   - [AutoHotkey NekoHelp](https://marketplace.visualstudio.com/items?itemName=cat1122.vscode-autohotkey-neko-help) by CoffeeChaton
 
 It works best with the v2 extension set as the default for .ahk files, since it handles v1 files much more gracefully than the v1 extensions handle v2 files.
