@@ -2,6 +2,8 @@
 
 Automatically switches between the "ahk" and "ahk2" languages, when detected.
 
+**NOTE:** This extension is redundant if you are using vscode-autohotkey2-lsp, as thqby has integrated its functionality.
+
 ## Features
 
 Automatically switches the document language in the following cases:
